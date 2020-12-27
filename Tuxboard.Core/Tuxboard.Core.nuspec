@@ -6,11 +6,11 @@
     <authors>Jonathan "JD" Danylko</authors>
     <owners>Jonathan "JD" Danylko</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <projectUrl>https://github.com/jdanylko/Tuxboard</projectUrl>
+    <projectUrl>https://github.com/jdanylko/Tuxboard.Core</projectUrl>
     <description>ASP.NET Core 3.1 library for Tuxboard, an open-source dashboard library.</description>
     <copyright>2019-2020</copyright>
     <tags>CSharp C# Dashboard</tags>
-    <repository type="C#" url="https://github.com/jdanylko/Tuxboard" />
+    <repository type="C#" url="https://github.com/jdanylko/Tuxboard.Core" />
     <dependencies>
       <group targetFramework=".NETCoreApp3.1">
         <dependency id="Microsoft.AspNetCore.Mvc" version="2.2.0" exclude="Build,Analyzers" />
